@@ -12,4 +12,6 @@ ___
 
 install the dependencies
 
-```$ npm install ```
+```bash
+$ npm install
+```
