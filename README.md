@@ -8,7 +8,8 @@ ___
 
 ## Contributors
 
-Momo BARRO [linkedin](https://www.linkedin.com/in/mouhamadou-s-barro-4203537b/)
+Momo BARRO  
+[linkedin](https://www.linkedin.com/in/mouhamadou-s-barro-4203537b/)
 
 ___
 
