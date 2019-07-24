@@ -3,7 +3,7 @@
 **Version 1.0.0**
 
 A gulp configuration file that will help you automate sass compilation, css and js minification and image optimization.
-_
+
 ___
 
 ## Usage
