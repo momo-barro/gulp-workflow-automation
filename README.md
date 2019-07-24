@@ -21,7 +21,7 @@ $ npm install
 
 **Run**
 
-This will watch your files, compile your sass, minify and bundle your css and js, and finally run your dev server at [http://http://localhost:3000]  
+This will watch your files, compile your sass, minify and bundle your css and js, and finally run your dev server at http://http://localhost:3000  
 
 Run command:
 
