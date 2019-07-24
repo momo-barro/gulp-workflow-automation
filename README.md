@@ -7,3 +7,9 @@ A gulp configuration file that will help you automate sass compilation, css and 
 ___
 
 ## Usage
+
+**Installation**
+
+install the dependencies
+
+```$ npm install ```
