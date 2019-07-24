@@ -38,3 +38,9 @@ Run command:
 ```bash
 $ npm start
 ```
+
+___
+
+## Notes
+
+Make sure to always reference your assets from the `dist/assets/` folder in your template files. This folder is automatically generated when you run the `$ npm start` command.
