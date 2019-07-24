@@ -10,7 +10,8 @@ ___
 
 **Installation**
 
-install the dependencies
+*Clone the repository  
+*install the dependencies
 
 ```bash
 $ npm install
