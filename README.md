@@ -6,6 +6,12 @@ A gulp configuration file that will help you automate sass compilation, css and 
 
 ___
 
+## Contributors
+
+Momo BARRO [linkedin](https://www.linkedin.com/in/mouhamadou-s-barro-4203537b/)
+
+___
+
 ## Usage
 
 **Installation**
